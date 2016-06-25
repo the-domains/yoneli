@@ -1,0 +1,28 @@
+name: Yonatan Eliyahu
+favicon: null
+layout_spectrum: 0.14031175151467323
+typography_spectrum: 0.7917478596791625
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9807697678916156
+  lightness: 0.2965823451522738
+  saturation: 0.423753859475255
+  rhythmicContrast: 0.32711671479046345
+purpose: []
